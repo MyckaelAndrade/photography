@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+#landing-txt{
+    width: 40%;
+}
+
+#landing-image img{
+    width: 100%;    
+}
